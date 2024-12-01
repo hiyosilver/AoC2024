@@ -1,0 +1,16 @@
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\AoC2024.exe
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\AoC2024.deps.json
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\AoC2024.runtimeconfig.json
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\AoC2024.dll
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\AoC2024.pdb
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.AssemblyInfo.cs
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.dll
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\refint\AoC2024.dll
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.pdb
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.genruntimeconfig.cache
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\ref\AoC2024.dll
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day1.txt
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day2.txt
