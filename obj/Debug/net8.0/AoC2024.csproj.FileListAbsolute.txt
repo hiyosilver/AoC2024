@@ -31,3 +31,4 @@ C:\Users\SimonReher\source\repos\AoC2024\obj\Debug\net8.0\refint\AoC2024.dll
 C:\Users\SimonReher\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.pdb
 C:\Users\SimonReher\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.genruntimeconfig.cache
 C:\Users\SimonReher\source\repos\AoC2024\obj\Debug\net8.0\ref\AoC2024.dll
+C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.sourcelink.json
