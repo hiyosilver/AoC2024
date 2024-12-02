@@ -2,8 +2,8 @@
 internal class Program {
     static void Main(string[] args) {
         List<AocDay> daysToCalc = new() {
-            new Day1(),
-            //new Day2(),
+            //new Day1(),
+            new Day2(),
         };
 
         foreach(AocDay day in daysToCalc) {
