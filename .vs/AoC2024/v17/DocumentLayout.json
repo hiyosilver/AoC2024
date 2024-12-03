@@ -1,25 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Simon\\source\\repos\\AoC2024\\",
+  "WorkspaceRootPath": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simon\\source\\repos\\aoc2024\\day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simon\\source\\repos\\aoc2024\\data\\day2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:data\\day2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simon\\source\\repos\\aoc2024\\day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simonreher\\source\\repos\\aoc2024\\day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simon\\source\\repos\\aoc2024\\data\\day1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:data\\day1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simonreher\\source\\repos\\aoc2024\\day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simon\\source\\repos\\aoc2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simonreher\\source\\repos\\aoc2024\\day3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:day3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|c:\\users\\simonreher\\source\\repos\\aoc2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AB7AFC8-D7D5-4A1E-B874-9872B0C64342}|AoC2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,63 +35,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Day2.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Day2.cs",
-              "RelativeDocumentMoniker": "Day2.cs",
-              "ToolTip": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Day2.cs",
-              "RelativeToolTip": "Day2.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwC8AAAAiAAAA",
+              "Title": "Day1.cs",
+              "DocumentMoniker": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Day1.cs",
+              "RelativeDocumentMoniker": "Day1.cs",
+              "ToolTip": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Day1.cs",
+              "RelativeToolTip": "Day1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:10:06.123Z",
+              "WhenOpened": "2024-12-03T14:31:25.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Day2.txt",
-              "DocumentMoniker": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Data\\Day2.txt",
-              "RelativeDocumentMoniker": "Data\\Day2.txt",
-              "ToolTip": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Data\\Day2.txt",
-              "RelativeToolTip": "Data\\Day2.txt",
-              "ViewState": "AQIAAJADAAAAAAAAAADwv5sDAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-01T07:09:48.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Day1.txt",
-              "DocumentMoniker": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Data\\Day1.txt",
-              "RelativeDocumentMoniker": "Data\\Day1.txt",
-              "ToolTip": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Data\\Day1.txt",
-              "RelativeToolTip": "Data\\Day1.txt",
-              "ViewState": "AQIAAM8DAAAAAAAAAADwv+cDAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-30T23:37:46.305Z"
+              "Title": "Day2.cs",
+              "DocumentMoniker": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Day2.cs",
+              "RelativeDocumentMoniker": "Day2.cs",
+              "ToolTip": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Day2.cs",
+              "RelativeToolTip": "Day2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:56:52.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Day1.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Day1.cs",
-              "RelativeDocumentMoniker": "Day1.cs",
-              "ToolTip": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Day1.cs",
-              "RelativeToolTip": "Day1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Title": "Day3.cs",
+              "DocumentMoniker": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Day3.cs",
+              "RelativeDocumentMoniker": "Day3.cs",
+              "ToolTip": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Day3.cs",
+              "RelativeToolTip": "Day3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:58:12.354Z"
+              "WhenOpened": "2024-12-03T09:09:30.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Simon\\source\\repos\\AoC2024\\Program.cs",
+              "ToolTip": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:56:24.199Z"
+              "WhenOpened": "2024-11-30T22:56:24.199Z",
+              "EditorCaption": ""
             }
           ]
         }

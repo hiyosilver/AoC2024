@@ -8,7 +8,7 @@ internal class Day2 : AocDay {
     public void Part1() {
         int counter = 0;
 
-        foreach(string line in File.ReadLines(Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "/Data/Day2.txt")) {
+        foreach(string line in File.ReadLines(Directory.GetCurrentDirectory() + "/Data/Day2.txt")) {
             List<int> nums = line
                 .Split(' ', StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
@@ -39,7 +39,7 @@ internal class Day2 : AocDay {
     public void Part2() {
         int counter = 0;
 
-        foreach (string line in File.ReadLines(Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "/Data/Day2.txt")) {
+        foreach (string line in File.ReadLines(Directory.GetCurrentDirectory() + "/Data/Day2.txt")) {
             List<int> nums = line
                 .Split(' ', StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
