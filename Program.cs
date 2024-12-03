@@ -4,6 +4,7 @@ internal class Program {
         List<AocDay> daysToCalc = new() {
             //new Day1(),
             new Day2(),
+            //new Day3(),
         };
 
         foreach(AocDay day in daysToCalc) {

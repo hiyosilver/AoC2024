@@ -10,9 +10,13 @@
   <ItemGroup>
     <None Remove="Data\Day1.txt" />
     <None Remove="Data\Day2.txt" />
+    <None Remove="Data\Day3.txt" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Data\Day3.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="Data\Day2.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>

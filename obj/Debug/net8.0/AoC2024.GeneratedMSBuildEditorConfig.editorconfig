@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AoC2024
-build_property.ProjectDir = C:\Users\Simon\source\repos\AoC2024\
+build_property.ProjectDir = C:\Users\SimonReher\source\repos\AoC2024\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

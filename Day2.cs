@@ -39,41 +39,19 @@ internal class Day2 : AocDay {
     public void Part2() {
         int counter = 0;
 
-        foreach(string line in File.ReadLines(Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "/Data/Day2.txt")) {
+        foreach (string line in File.ReadLines(Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "/Data/Day2.txt")) {
             List<int> nums = line
                 .Split(' ', StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToList();
 
-            if(nums[0] == nums[1] || Math.Abs(nums[1] - nums[0]) > 3) {
-                List<int> newSequenceA = new(nums);
-                newSequenceA.RemoveAt(0);
-                List<int> newSequenceB = new(nums);
-                newSequenceB.RemoveAt(1);
-                if(IsSequenceValid(newSequenceA) || IsSequenceValid(newSequenceB)) {
+            for (int i = 0; i < nums.Count; i++) {
+                List<int> newSequence = new(nums);
+                newSequence.RemoveAt(i);
+                if (IsSequenceValid(newSequence)) {
                     counter++;
-                }
-                continue;
-            }
-            bool isAscending = nums[0] < nums[1];
-            bool isValid = true;
-
-            for(int i = 1; i < nums.Count - 1; i++) {
-                if( Math.Abs(nums[i + 1] - nums[i]) > 3 ||
-                    (isAscending && nums[i] >= nums[i + 1]) ||
-                    (!isAscending && nums[i] <= nums[i + 1])) {
-
-                    List<int> newSequenceA = new(nums);
-                    newSequenceA.RemoveAt(i);
-                    List<int> newSequenceB = new(nums);
-                    newSequenceB.RemoveAt(i + 1);
-                    isValid = IsSequenceValid(newSequenceA) || IsSequenceValid(newSequenceB);
                     break;
                 }
-            }
-
-            if(isValid) {
-                counter++;
             }
         }
         Console.WriteLine(counter);
