@@ -14,11 +14,7 @@ internal class Day4 : AocDay
 
         int counter = 0;
 
-        List<char[]> grid = new();
-        foreach (string line in File.ReadLines(Directory.GetCurrentDirectory() + "/Data/Day4.txt"))
-        {
-            grid.Add(line.ToCharArray());
-        }
+        List<string> grid = [.. File.ReadLines(Directory.GetCurrentDirectory() + "/Data/Day4.txt")];
 
         for(int row = 0; row < grid.Count; row++) {
             for(int col = 0; col < grid[row].Length; col++) {
@@ -54,10 +50,7 @@ internal class Day4 : AocDay
     {
         int counter = 0;
 
-        List<char[]> grid = new();
-        foreach(string line in File.ReadLines(Directory.GetCurrentDirectory() + "/Data/Day4.txt")) {
-            grid.Add(line.ToCharArray());
-        }
+        List<string> grid = [.. File.ReadLines(Directory.GetCurrentDirectory() + "/Data/Day4.txt")];
 
         for(int row = 0; row < grid.Count; row++) {
             for(int col = 0; col < grid[row].Length; col++) {
