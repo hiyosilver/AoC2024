@@ -36,3 +36,5 @@ C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day3.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day4.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day3.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day5.txt
+C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day5.txt
+C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day4.txt
