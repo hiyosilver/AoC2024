@@ -8,19 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SimonReher\\.nuget\\packages\\": {}
+    "C:\\Users\\Simon\\.nuget\\packages\\": {},
+    "C:\\Users\\Simon\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\AoC2024.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\source\\repos\\AoC2024\\AoC2024.csproj",
       "projectName": "AoC2024",
-      "projectPath": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\AoC2024.csproj",
-      "packagesPath": "C:\\Users\\SimonReher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SimonReher\\source\\repos\\AoC2024\\obj\\",
+      "projectPath": "C:\\Users\\Simon\\source\\repos\\AoC2024\\AoC2024.csproj",
+      "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simon\\source\\repos\\AoC2024\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\Simon\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\SimonReher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +36,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
