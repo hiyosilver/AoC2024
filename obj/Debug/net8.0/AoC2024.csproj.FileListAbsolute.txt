@@ -12,8 +12,6 @@ C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\refint\AoC2024.dll
 C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.pdb
 C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.genruntimeconfig.cache
 C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\ref\AoC2024.dll
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day1.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day2.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\AoC2024.exe
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day2.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day1.txt
@@ -33,9 +31,6 @@ C:\Users\SimonReher\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.genruntimeconf
 C:\Users\SimonReher\source\repos\AoC2024\obj\Debug\net8.0\ref\AoC2024.dll
 C:\Users\Simon\source\repos\AoC2024\obj\Debug\net8.0\AoC2024.sourcelink.json
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day3.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day4.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day3.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day5.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day5.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day4.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day6.txt
@@ -43,10 +38,7 @@ C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day7.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day8.txt
 C:\Users\SimonReher\source\repos\AoC2024\bin\Debug\net8.0\Data\Day9.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day10.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day9.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day8.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day7.txt
-C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day6.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day11.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day13.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day12.txt
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day14.txt
