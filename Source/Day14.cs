@@ -59,7 +59,7 @@ internal class Day14 : AocDay
 
         int width = 101;
         int height = 103;
-        int seconds = 10403;
+        int seconds = 10403 + 400;
 
         char[][] grid = new char[height][];
         for(int n = 0; n < grid.Length; n++) {
