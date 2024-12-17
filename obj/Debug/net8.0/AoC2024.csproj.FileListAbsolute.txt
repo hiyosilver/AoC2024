@@ -43,3 +43,4 @@ C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day13.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day12.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day14.txt
 C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day15.txt
+C:\Users\Simon\source\repos\AoC2024\bin\Debug\net8.0\Data\Day17.txt
