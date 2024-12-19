@@ -19,7 +19,8 @@ internal class Program
             //new Day13(),
             //new Day14(),
             //new Day15(),
-            new Day17(),
+            //new Day17(),
+            new Day19(),
         };
 
         foreach (AocDay day in daysToCalc)
